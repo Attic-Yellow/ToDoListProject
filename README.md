@@ -1,6 +1,6 @@
 # React Native 할 일 목록 프로젝트
 
-# 개요
+### 개요
 이 프로젝트는 React Native를 사용하여 할 일 목록 애플리케이션을 구현합니다. 일일 작업 관리를 위한 사용자 친화적인 인터페이스를 제공하며, 일정을 관리하고 추적할 수 있는 캘린더 뷰가 포함되어 있습니다. 앱은 @react-navigation/native로 내비게이션, react-native-calendars로 캘린더 기능, react-native-paper로 UI 요소 등 React Native 컴포넌트와 라이브러리를 활용합니다.
 
 ### 기능
